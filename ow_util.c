@@ -1,4 +1,4 @@
-// ow_util.h //
+// ow_util.c //
 //
 // general utils
 //
